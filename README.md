@@ -1,1 +1,2 @@
-# Miscellaneous Azure Powershell
+# Misc Powershell
+
